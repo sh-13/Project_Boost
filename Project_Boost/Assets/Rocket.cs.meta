@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c4e99ac004978ca4889362eb90f9174b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DeathClip: {fileID: 8300000, guid: 5692eff8a4cac654a8b3703b1b30c865, type: 3}
+  - ThrustClip: {fileID: 8300000, guid: 4678ea2317640e94a93a7ecd02c9ad03, type: 3}
+  - LevelCompleteClip: {fileID: 8300000, guid: 3a04bbe127e9eec4fa6a3ab35c0862e2, type: 3}
+  - DeathPartical: {instanceID: 0}
+  - ThrustPartical: {instanceID: 0}
+  - LevelCompletePartical: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
